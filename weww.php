@@ -216,7 +216,7 @@ ulang:
          goto ulang;
          }
 //  }
-© 2020 GitHub, Inc.
+© GitHub, Inc.
 Terms
 Privacy
 Security
